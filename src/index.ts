@@ -1,5 +1,3 @@
-const main = (text: string): void => {
-  console.log(text)
-}
+export const main = (text: string): string => text
 
 main('Hello World')
