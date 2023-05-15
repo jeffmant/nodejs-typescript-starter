@@ -1,8 +1,5 @@
 const main = (text: string): void => {
-    console.log(text)
+  console.log(text)
 }
 
-main('Hello World');
-
-
-
+main('Hello World')
